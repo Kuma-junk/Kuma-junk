@@ -1,1 +1,1 @@
-(https://github-readme-stats.vercel.app/api?username=Kuma-junk)
+[status](https://github-readme-stats.vercel.app/api?username=Kuma-junk)
